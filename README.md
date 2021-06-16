@@ -11,10 +11,12 @@
 ##
 -banco de dados alunos 
 ##
--medidas 
+-medidas
+##
 -grafico de progressão de gordura 
+##
 -grafico de progressão massa
-
+##
 -area aluno 
 ##
 -treinos e dietas
